@@ -1,0 +1,2 @@
+import ALAMIN
+ALAMIN.menu()
